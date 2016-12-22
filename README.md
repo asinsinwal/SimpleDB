@@ -1,11 +1,11 @@
 SimpleDB
 
 Team:
+1. Animesh Sinsinwal
+2. Sumit Srivastava
+3. Nikhil Sharma
+4. Bhaskar Sinha
 
-Animesh Sinsinwal
-Sumit Srivastava
-Nikhil Sharma
-Bhaskar Sinha
 Background:
 
 PART A:
